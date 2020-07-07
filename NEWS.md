@@ -13,6 +13,7 @@
 
 ## Bug fixes
 
+- Capital NS. is no longer displayed by `stat_compare_means()` (#171)
 
 
 # ggpubr 0.4.0
